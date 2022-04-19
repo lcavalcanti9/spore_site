@@ -45,6 +45,24 @@
 	margin-top: 10px;
 }
 
+/* code for home/summary */
+#general_home_page{
+	color:rgb(247, 212, 221);
+}
+
+#image_edition{
+	border: 10px ridge rgb(247, 212, 221);
+	margin-left: auto;
+	margin-right: auto;
+}
+.bodyp{
+	font-size: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 35px; 
+	width:80%;
+}
+
 /* */
 
 table,
